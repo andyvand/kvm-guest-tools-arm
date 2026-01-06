@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.14393.0
+Release|arm|C:\Users\andyv\Downloads\kvm-guest-drivers-windows-02.12.2021-last-buildable-point-Win7\viofs\svc\winfsp\build\VStudio\|
